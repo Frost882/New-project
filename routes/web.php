@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/my_page', 'MyPlaceController@index');
+Route::get('/post', 'PostController@index');
